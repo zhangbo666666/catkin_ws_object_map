@@ -1,0 +1,98 @@
+%YAML:1.0
+
+# Camera calibration parameters (OpenCV)
+#Camera.fx: 616.50610351562d5
+#Camera.fy: 616.853515625
+#Camera.cx: 318.3106994628906
+#Camera.cy: 243.109619140625
+
+#Camera.fx: 544.47329
+#Camera.fy: 544.47329
+#Camera.cx: 320
+#Camera.cy: 240
+
+Camera.fx: 535.6867
+Camera.fy: 535.4142
+Camera.cx: 476.6898
+Camera.cy: 270.8909
+
+Camera.k1: 0.0975
+Camera.k2: -0.1795
+Camera.p1: 0.0
+Camera.p2: 0.0
+Camera.k3: 0.0897
+
+Camera.width: 960
+Camera.height: 540
+
+# IR projector baseline * fx (aprox.)
+#Camera.bf: 37.2925
+#Camera.bf: 30.2925
+Camera.bf: 40
+
+# Camera frames per second
+Camera.fps: 30.0
+
+# Color order of the images (0: BGR, 1: RGB. It is ignored if images are grayscale)
+Camera.RGB: 1
+
+# Close/Far threshold. Baseline times.
+#ThDepth: 10.0
+ThDepth: 50.0
+
+# Deptmap values factor
+DepthMapFactorForDataset: 1000.0 # for SceneNN dataset
+DepthMapFactor: 1000.0
+
+# for gazebo simulation
+#DepthMapFactor: 1.0 
+#--------------------------------------------------------------------------------------------
+# ORB Parameters
+#--------------------------------------------------------------------------------------------
+
+# ORB Extractor: Number of features per image
+ORBextractor.nFeatures: 1000
+
+# ORB Extractor: Scale factor between levels in the scale pyramid
+ORBextractor.scaleFactor: 1.2
+
+# ORB Extractor: Number of levels in the scale pyramid
+ORBextractor.nLevels: 8
+
+# ORB Extractor: Fast threshold
+# Image is divided in a grid. At each cell FAST are extracted imposing a minimum response.
+# Firstly we impose iniThFAST. If no corners are detected we impose a lower value minThFAST
+# You can lower these values if your images have low contrast
+ORBextractor.iniThFAST: 20
+ORBextractor.minThFAST: 7
+
+#--------------------------------------------------------------------------------------------
+# Viewer Parameters
+#--------------------------------------------------------------------------------------------
+Viewer.KeyFrameSize: 0.05
+Viewer.KeyFrameLineWidth: 1
+Viewer.GraphLineWidth: 0.9
+Viewer.PointSize: 2
+Viewer.CameraSize: 0.08
+Viewer.CameraLineWidth: 3
+Viewer.ViewpointX: 0
+Viewer.ViewpointY: -0.7
+Viewer.ViewpointZ: -1.8
+Viewer.ViewpointF: 500
+
+PointCloudMapping.Resolution: 0.01
+
+#--------------------------------------------------------------------------------------------
+# 3D Object Detection Parameters
+#--------------------------------------------------------------------------------------------
+ObjectsBoundingBoxes.ObjectVoxelResolution: 0.01 # m
+ObjectsBoundingBoxes.ObjectProbThreshold: 0.20
+ObjectDatabase.mVolumeThMin: 0.2
+ObjectDatabase.mVolumeThMax: 5
+ObjectDatabase.mMinEdgeTh: 0.2
+
+ObjectDatabase.mMinIntersectionTh: 0.2
+
+Frame.PersonProbThreshold: 0.3
+Frame.PersonThermalMaskMin: 27500
+Frame.PersonThermalMaskMax: 35000

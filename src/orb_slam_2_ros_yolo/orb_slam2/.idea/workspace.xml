@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e31753cd-6ee7-4730-8383-10add2396988" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1bqeNfa0LyZOE2qtvsadv5E094O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Thermal_Mapping/images_publisher" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e31753cd-6ee7-4730-8383-10add2396988" name="Default Changelist" comment="" />
+      <created>1589364012077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589364012077</updated>
+      <workItem from="1589364013396" duration="37000" />
+      <workItem from="1589367429127" duration="219000" />
+      <workItem from="1589527442354" duration="2329000" />
+      <workItem from="1589530047328" duration="52000" />
+      <workItem from="1589981277707" duration="2050000" />
+      <workItem from="1590064604153" duration="2299000" />
+      <workItem from="1590066919644" duration="253000" />
+      <workItem from="1590067182048" duration="4176000" />
+      <workItem from="1590130097488" duration="20430000" />
+      <workItem from="1590158072114" duration="5647000" />
+      <workItem from="1590204194852" duration="10302000" />
+      <workItem from="1590286692207" duration="5101000" />
+      <workItem from="1590296191273" duration="4871000" />
+      <workItem from="1616727688651" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="510" y="263" key="#ORB_SLAM2" timestamp="1590231503266">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="510" y="263" key="#ORB_SLAM2/65.24.1375.876@65.24.1375.876" timestamp="1590231503266" />
+    <state x="91" y="198" width="1270" height="596" maximized="true" key="DiffContextDialog" timestamp="1590159516440">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="91" y="198" width="1270" height="596" maximized="true" key="DiffContextDialog/65.24.1375.876@65.24.1375.876" timestamp="1590159516440" />
+    <state x="357" y="189" key="FileChooserDialogImpl" timestamp="1590297143301">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="357" y="189" key="FileChooserDialogImpl/65.24.1375.876@65.24.1375.876" timestamp="1590297143301" />
+    <state x="276" y="84" key="SettingsEditor" timestamp="1590067253795">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="276" y="84" key="SettingsEditor/65.24.1375.876@65.24.1375.876" timestamp="1590067253795" />
+    <state x="188" y="24" width="1002" height="876" key="find.popup" timestamp="1590303176580">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="188" y="24" width="1002" height="876" key="find.popup/65.24.1375.876@65.24.1375.876" timestamp="1590303176580" />
+  </component>
+</project>

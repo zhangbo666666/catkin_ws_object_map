@@ -1,0 +1,2 @@
+orb_slam_2_ros_yolo
+-DCATKIN_DEVEL_PREFIX=/home/zb/catkin_ws_object_map/devel -DCMAKE_INSTALL_PREFIX=/home/zb/catkin_ws_object_map/install -G Unix Makefiles

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="std_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="object_map_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="octomap_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="test-future" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="doxygen" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="clean_test_results" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="gtest" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="ROSBUILD_gensrv_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rospack_genmsg_libexe" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="roscpp_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="test" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="octomap_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="object_map_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="octomap_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rospack_gensrv" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="roscpp_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="_catkin_empty_exported_target" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="test-results-run" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rospack_genmsg" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="gmock" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="roscpp_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="octomap_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="object_map_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="gmock_main" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="ROSBUILD_genmsg_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="test-results" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tests" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="run_tests" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="gtest_main" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="download_extra_data" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="octomap_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosbuild_premsgsrvgen" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="ROSBUILD_genmsg_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="rosbuild_precompile" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="object_map_msgs_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="object_map_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="ROSBUILD_gensrv_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="ORB_SLAM2_ROS_New" targetName="tf_generate_messages_lisp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2a22c3-7e33-4bb4-a371-4cc5276f0d33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1bqeWdUQY4HuoAYVrTwJ6FekMK2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ORB_SLAM2_ROS_New_rgbd" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$PROJECT_DIR$/../../../Vocabulary/ORBvoc.bin $PROJECT_DIR$/../../../config/RealSenseRGBD.yaml 0" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ORB_SLAM2_ROS_New" TARGET_NAME="ORB_SLAM2_ROS_New_rgbd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ORB_SLAM2_ROS_New" RUN_TARGET_NAME="ORB_SLAM2_ROS_New_rgbd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2a22c3-7e33-4bb4-a371-4cc5276f0d33" name="Default Changelist" comment="" />
+      <created>1589364083052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589364083052</updated>
+      <workItem from="1589364084248" duration="117000" />
+      <workItem from="1589365137578" duration="1715000" />
+      <workItem from="1589367188521" duration="1683000" />
+      <workItem from="1589382562535" duration="1684000" />
+      <workItem from="1589428590933" duration="765000" />
+      <workItem from="1589527196175" duration="2603000" />
+      <workItem from="1589534431215" duration="3081000" />
+      <workItem from="1589769081311" duration="6283000" />
+      <workItem from="1589969660275" duration="654000" />
+      <workItem from="1589981255638" duration="1987000" />
+      <workItem from="1589984303549" duration="442000" />
+      <workItem from="1589984766776" duration="3914000" />
+      <workItem from="1590064393193" duration="4251000" />
+      <workItem from="1590130879035" duration="16879000" />
+      <workItem from="1590157987771" duration="4365000" />
+      <workItem from="1590204181276" duration="6884000" />
+      <workItem from="1590231188465" duration="13296000" />
+      <workItem from="1590286774622" duration="9200000" />
+      <workItem from="1590296207995" duration="11032000" />
+      <workItem from="1591513824324" duration="437000" />
+      <workItem from="1591514706196" duration="2673000" />
+      <workItem from="1591776939156" duration="2095000" />
+      <workItem from="1592031526807" duration="8372000" />
+      <workItem from="1592107317235" duration="16183000" />
+      <workItem from="1592156404260" duration="2082000" />
+      <workItem from="1593159751420" duration="8129000" />
+      <workItem from="1649928052997" duration="629000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1649928053865">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="601" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056/65.24.1855.1056@65.24.1855.1056" timestamp="1649928053865" />
+  </component>
+</project>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="object_detection_yolo" targetName="actionlib_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="geometry_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="sensor_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="object_detection_yolo" />
+      <config projectName="object_detection_yolo" targetName="tf2_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="sensor_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="doxygen" />
+      <config projectName="object_detection_yolo" targetName="geometry_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="actionlib_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="rosgraph_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="octomap_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="std_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="darknet_ros_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="actionlib_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="gmock" />
+      <config projectName="object_detection_yolo" targetName="std_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="actionlib_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="darknet_ros_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="darknet_ros_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="roscpp_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="geometry_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="rospack_genmsg_libexe" />
+      <config projectName="object_detection_yolo" targetName="std_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="geometry_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="sensor_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="tf2_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="actionlib_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="tf_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="std_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="octomap_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="rosgraph_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="test" />
+      <config projectName="object_detection_yolo" targetName="ROSBUILD_genmsg_cpp" />
+      <config projectName="object_detection_yolo" targetName="actionlib_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="run_tests" />
+      <config projectName="object_detection_yolo" targetName="download_extra_data" />
+      <config projectName="object_detection_yolo" targetName="actionlib_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="geometry_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="darknet_ros_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="gtest_main" />
+      <config projectName="object_detection_yolo" targetName="tf2_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="rospack_gensrv" />
+      <config projectName="object_detection_yolo" targetName="tests" />
+      <config projectName="object_detection_yolo" targetName="roscpp_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="rosbuild_premsgsrvgen" />
+      <config projectName="object_detection_yolo" targetName="object_detection" />
+      <config projectName="object_detection_yolo" targetName="rosgraph_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="ROSBUILD_gensrv_cpp" />
+      <config projectName="object_detection_yolo" targetName="rospack_genmsg" />
+      <config projectName="object_detection_yolo" targetName="roscpp_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="tf_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="test-results-run" />
+      <config projectName="object_detection_yolo" targetName="object_map_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="octomap_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="clean_test_results" />
+      <config projectName="object_detection_yolo" targetName="object_map_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="actionlib_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="sensor_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="rosgraph_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="tf_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="object_map_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="object_map_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="gtest" />
+      <config projectName="object_detection_yolo" targetName="gmock_main" />
+      <config projectName="object_detection_yolo" targetName="ROSBUILD_genmsg_lisp" />
+      <config projectName="object_detection_yolo" targetName="test-future" />
+      <config projectName="object_detection_yolo" targetName="tf_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="sensor_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="ROSBUILD_gensrv_lisp" />
+      <config projectName="object_detection_yolo" targetName="actionlib_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="test-results" />
+      <config projectName="object_detection_yolo" targetName="tf_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="rosgraph_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="tf2_msgs_generate_messages_lisp" />
+      <config projectName="object_detection_yolo" targetName="tf2_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="rosbuild_precompile" />
+      <config projectName="object_detection_yolo" targetName="octomap_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="actionlib_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="std_msgs_generate_messages_cpp" />
+      <config projectName="object_detection_yolo" targetName="_catkin_empty_exported_target" />
+      <config projectName="object_detection_yolo" targetName="roscpp_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="rosbuild_clean-test-results" />
+      <config projectName="object_detection_yolo" targetName="octomap_msgs_generate_messages_py" />
+      <config projectName="object_detection_yolo" targetName="darknet_ros_msgs_generate_messages_nodejs" />
+      <config projectName="object_detection_yolo" targetName="object_map_msgs_generate_messages_eus" />
+      <config projectName="object_detection_yolo" targetName="roscpp_generate_messages_cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2a22c3-7e33-4bb4-a371-4cc5276f0d33" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1bqeWdUQY4HuoAYVrTwJ6FekMK2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../.." />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="CMake Application.object_detection">
+    <configuration name="object_detection" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_detection_yolo" TARGET_NAME="object_detection" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_detection_yolo" RUN_TARGET_NAME="object_detection">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="object_detection_yolo" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="$PROJECT_DIR$/../../../Vocabulary/ORBvoc.bin $PROJECT_DIR$/../../../config/RealSenseRGBD.yaml" PASS_PARENT_ENVS_2="true" PROJECT_NAME="object_detection_yolo" TARGET_NAME="object_detection_yolo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="object_detection_yolo" RUN_TARGET_NAME="object_detection_yolo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.object_detection" />
+      <item itemvalue="CMake Application.object_detection_yolo" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2a22c3-7e33-4bb4-a371-4cc5276f0d33" name="Default Changelist" comment="" />
+      <created>1589364083052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589364083052</updated>
+      <workItem from="1589364084248" duration="117000" />
+      <workItem from="1589365137578" duration="1715000" />
+      <workItem from="1589367188521" duration="1683000" />
+      <workItem from="1589382562535" duration="1684000" />
+      <workItem from="1589428590933" duration="765000" />
+      <workItem from="1589527196175" duration="2603000" />
+      <workItem from="1589534431215" duration="3081000" />
+      <workItem from="1589769081311" duration="6283000" />
+      <workItem from="1589969660275" duration="654000" />
+      <workItem from="1589981255638" duration="1987000" />
+      <workItem from="1589984303549" duration="442000" />
+      <workItem from="1589984766776" duration="3914000" />
+      <workItem from="1590064393193" duration="4251000" />
+      <workItem from="1590130879035" duration="16879000" />
+      <workItem from="1590157987771" duration="4365000" />
+      <workItem from="1590204181276" duration="6884000" />
+      <workItem from="1590231188465" duration="13296000" />
+      <workItem from="1590286774622" duration="9200000" />
+      <workItem from="1590296207995" duration="11032000" />
+      <workItem from="1590464817606" duration="6667000" />
+      <workItem from="1590586272160" duration="1315000" />
+      <workItem from="1590589066408" duration="9043000" />
+      <workItem from="1590642965159" duration="14676000" />
+      <workItem from="1590760514361" duration="296000" />
+      <workItem from="1590760834717" duration="71000" />
+      <workItem from="1590761599453" duration="102000" />
+      <workItem from="1590761774727" duration="151000" />
+      <workItem from="1590761959008" duration="94000" />
+      <workItem from="1590762096909" duration="1777000" />
+      <workItem from="1590813651287" duration="23155000" />
+      <workItem from="1590846677006" duration="12928000" />
+      <workItem from="1591258099501" duration="2185000" />
+      <workItem from="1591266401450" duration="106000" />
+      <workItem from="1591266563517" duration="3270000" />
+      <workItem from="1591337032951" duration="5489000" />
+      <workItem from="1591583772163" duration="22862000" />
+      <workItem from="1591783477169" duration="27891000" />
+      <workItem from="1591845113402" duration="18906000" />
+      <workItem from="1592156411819" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="110" key="#Web_Browsers" timestamp="1589984517076">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="352" y="110" key="#Web_Browsers/65.24.1375.876@65.24.1375.876" timestamp="1589984517076" />
+    <state x="515" y="294" width="891" height="606" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591787325968">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="515" y="294" width="891" height="606" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1375.876@65.24.1375.876" timestamp="1591787325968" />
+    <state x="490" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591338047359">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="490" y="196" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1375.876@65.24.1375.876" timestamp="1591338047359" />
+    <state width="603" height="466" key="DebuggerActiveHint" timestamp="1591596068278">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="603" height="466" key="DebuggerActiveHint/65.24.1375.876@65.24.1375.876" timestamp="1591596068278" />
+    <state x="165" y="96" width="1175" height="704" key="DiffContextDialog" timestamp="1590160067088">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="165" y="96" width="1175" height="704" key="DiffContextDialog/65.24.1375.876@65.24.1375.876" timestamp="1590160067088" />
+    <state x="481" y="207" key="FileChooserDialogImpl" timestamp="1591848239007">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="481" y="207" key="FileChooserDialogImpl/65.24.1375.876@65.24.1375.876" timestamp="1591848239007" />
+    <state width="1323" height="266" key="GridCell.Tab.0.bottom" timestamp="1591890950439">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.bottom/65.24.1375.876@65.24.1375.876" timestamp="1591890950439" />
+    <state width="1323" height="266" key="GridCell.Tab.0.center" timestamp="1591890950439">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.center/65.24.1375.876@65.24.1375.876" timestamp="1591890950439" />
+    <state width="1323" height="266" key="GridCell.Tab.0.left" timestamp="1591890950438">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.left/65.24.1375.876@65.24.1375.876" timestamp="1591890950438" />
+    <state width="1323" height="266" key="GridCell.Tab.0.right" timestamp="1591890950439">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="266" key="GridCell.Tab.0.right/65.24.1375.876@65.24.1375.876" timestamp="1591890950439" />
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom" timestamp="1591813959588">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.bottom/65.24.1375.876@65.24.1375.876" timestamp="1591813959588" />
+    <state width="1323" height="177" key="GridCell.Tab.1.center" timestamp="1591813959587">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.center/65.24.1375.876@65.24.1375.876" timestamp="1591813959587" />
+    <state width="1323" height="177" key="GridCell.Tab.1.left" timestamp="1591813959587">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.left/65.24.1375.876@65.24.1375.876" timestamp="1591813959587" />
+    <state width="1323" height="177" key="GridCell.Tab.1.right" timestamp="1591813959587">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.1.right/65.24.1375.876@65.24.1375.876" timestamp="1591813959587" />
+    <state x="276" y="84" key="SettingsEditor" timestamp="1590160383810">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="276" y="84" key="SettingsEditor/65.24.1375.876@65.24.1375.876" timestamp="1590160383810" />
+    <state width="687" height="452" key="XDebugger.FullValuePopup" timestamp="1590297329298">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state width="687" height="452" key="XDebugger.FullValuePopup/65.24.1375.876@65.24.1375.876" timestamp="1590297329298" />
+    <state x="368" y="127" width="957" height="773" key="find.popup" timestamp="1591783774507">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="368" y="127" width="957" height="773" key="find.popup/65.24.1375.876@65.24.1375.876" timestamp="1591783774507" />
+    <state x="415" y="191" key="search.everywhere.popup" timestamp="1590846382950">
+      <screen x="65" y="24" width="1375" height="876" />
+    </state>
+    <state x="415" y="191" key="search.everywhere.popup/65.24.1375.876@65.24.1375.876" timestamp="1590846382950" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+prefix=/home/zb/catkin_ws_object_map/devel
+
+Name: orb_slam2_ros_yolo
+Description: Description of orb_slam2_ros_yolo
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -l{PROJECT_NAME} -llibDBoW2 -llibg2o
+Requires: roscpp std_msgs cv_bridge image_transport tf sensor_msgs object_map_msgs octomap_ros octomap_msgs darknet_ros_msgs

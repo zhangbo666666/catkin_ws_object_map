@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zb/catkin_ws_object_map/devel/setup.sh
